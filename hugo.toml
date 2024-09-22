@@ -1,0 +1,45 @@
+baseURL = 'https://example.org/'
+title = "iLtc's Blog"
+theme = 'PaperMod'
+paginate = 7
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+defaultContentLanguageInSubdir = true
+
+[markup]
+[markup.goldmark]
+duplicateResourceFiles = true
+
+[params]
+displayFullLangName = true
+defaultTheme = "auto"
+
+[permalinks]
+[permalinks.page]
+posts = '/posts/:slug/'
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.en.taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[languages.zh]
+languageName = "中文"
+weight = 2
+title = "iLtc 的博客"
