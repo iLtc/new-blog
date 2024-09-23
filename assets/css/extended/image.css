@@ -1,0 +1,22 @@
+figcaption {
+    text-align: center;
+}
+
+.figure-center img {
+    display: block;
+    margin: 0 auto;
+}
+
+.figure-right {
+    width: 50%;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 0 !important;
+}
+
+.figure-left {
+    width: 50%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 0 !important;
+}

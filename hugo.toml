@@ -16,6 +16,37 @@ duplicateResourceFiles = true
 displayFullLangName = true
 defaultTheme = "auto"
 
+[params.homeInfoParams]
+Title = "iLtc's Blog"
+Content = """
+👋 Welcome to iLtc's Blog!
+"""
+
+[[params.socialIcons]]
+name = "linkedin"
+title = "Check out my LinkedIn"
+url = "https://www.linkedin.com/in/alantluo/"
+
+[[params.socialIcons]]
+name = "github"
+title = "Check out my GitHub"
+url = "https://github.com/iLtc"
+
+[[params.socialIcons]]
+name = "gurushots"
+title = "Check out my maps"
+url = "https://maps.iltc.app/"
+
+[[params.socialIcons]]
+name = "goodreads"
+title = "Check out my book list"
+url = "https://lists.iltc.app/#/books"
+
+[[params.socialIcons]]
+name = "steam"
+title = "Check out my video game list"
+url = "https://lists.iltc.app/#/games"
+
 [permalinks]
 [permalinks.page]
 posts = '/posts/:slug/'
