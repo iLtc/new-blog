@@ -2,20 +2,22 @@
 title: The Programming Languages that I have learned (Part I)
 date: 2017-08-28
 tags:
-- Languages
+- Programming Language
+- Quick Basic
+- ASP
 slug: the-programming-languages-that-i-have-learned-part-i
 aliases: /en/the-programming-languages-that-i-have-learned-part-i.html
 ---
 
 This article is a list of programming languages that I have learned. Please notice that I have *learned* them, which means I have not *mastered* them.
 
+<!--more-->
+
 ## Quick Basic
 
-![QuickBasic Opening Screen](images/QuickBasic_Opening_Screen.png)
+{{< figure src="images/QuickBasic_Opening_Screen.png" title="Quick Basic Opening Screen" class="figure-center" >}}
 
 Quick Basic or QB is the first programming language that I learned.
-
-<!--more-->
 
 I still remember the day when the teacher announced that our school would begin a “Programming Training Course.” Only 4 or 5 out of 60 students in this classroom could join this class. Then she started to read the names, and I was one of them. The reason was that our math teacher believed my math was good enough to take the class. And I remember, my friend was jealous of me.
 
