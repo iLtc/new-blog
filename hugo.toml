@@ -8,6 +8,9 @@ buildFuture = false
 buildExpired = false
 defaultContentLanguageInSubdir = true
 
+[services.disqus]
+shortname = 'iltc-blog'
+
 [markup]
 [markup.goldmark]
 duplicateResourceFiles = true
@@ -15,6 +18,7 @@ duplicateResourceFiles = true
 [params]
 displayFullLangName = true
 defaultTheme = "auto"
+comments = true
 
 [params.homeInfoParams]
 Title = "iLtc's Blog"
