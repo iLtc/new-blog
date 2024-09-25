@@ -3,7 +3,6 @@ title: Sell Your Privacy
 date: 2017-10-06
 tags:
 - Rhetoric
-slug: sell-your-privacy
 aliases: /en/sell-your-privacy.html
 ---
 

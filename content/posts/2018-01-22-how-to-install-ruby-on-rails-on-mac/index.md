@@ -6,7 +6,6 @@ tags:
 - Tutorial
 - Ruby
 - Ruby on Rails
-slug: how-to-install-ruby-on-rails-on-mac
 aliases: /en/how-to-install-ruby-on-rails-on-mac.html
 ---
 

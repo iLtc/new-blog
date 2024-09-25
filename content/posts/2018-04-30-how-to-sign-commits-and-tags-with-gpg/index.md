@@ -5,7 +5,6 @@ tags:
 - Git
 - GPG
 - Tutorial
-slug: how-to-sign-commits-and-tags-with-gpg
 aliases: /en/how-to-sign-commits-and-tags-with-gpg.html
 ---
 

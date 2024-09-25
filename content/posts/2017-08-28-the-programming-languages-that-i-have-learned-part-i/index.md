@@ -5,7 +5,6 @@ tags:
 - Programming Language
 - Quick Basic
 - ASP
-slug: the-programming-languages-that-i-have-learned-part-i
 aliases: /en/the-programming-languages-that-i-have-learned-part-i.html
 ---
 

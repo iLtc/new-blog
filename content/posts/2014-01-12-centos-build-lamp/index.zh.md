@@ -8,7 +8,6 @@ tags:
 - PHP
 - CentOS
 - yum
-slug: centos-build-lamp
 aliases: /zh/centos-build-lamp.html
 ---
 

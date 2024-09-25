@@ -5,7 +5,6 @@ tags:
 - Emacs
 - Haskell
 - MacOS
-slug: install-haskell-and-emacs-on-macos
 aliases: /en/install-haskell-and-emacs-on-macos.html
 ---
 

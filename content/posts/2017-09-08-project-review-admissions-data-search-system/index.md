@@ -5,7 +5,6 @@ tags:
 - Project
 - PHP
 - MySQL
-slug: project-review-admissions-data-search-system
 aliases: /en/project-review-admissions-data-search-system.html
 ---
 

@@ -53,7 +53,7 @@ url = "https://lists.iltc.app/#/games"
 
 [permalinks]
 [permalinks.page]
-posts = '/posts/:slug/'
+posts = '/:slugorfilename'
 
 [languages.en]
 languageName = "English"

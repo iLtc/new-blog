@@ -3,7 +3,6 @@ title: 'Silicon Valley: A Story That Is Unrelated To Technology'
 date: 2017-12-01
 tags:
 - Rhetoric
-slug: silicon-valley-a-story-that-is-unrelated-to-technology
 aliases: /en/silicon-valley-a-story-that-is-unrelated-to-technology.html
 ---
 
