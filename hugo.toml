@@ -20,6 +20,9 @@ displayFullLangName = true
 defaultTheme = "auto"
 comments = true
 
+[params.assets]
+disableFingerprinting = true
+
 [params.homeInfoParams]
 Title = "iLtc's Blog"
 Content = """
