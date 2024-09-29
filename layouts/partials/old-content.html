@@ -1,0 +1,7 @@
+{{ $ageDays := div (sub now.Unix .Date.Unix) 31536000 }}
+{{ if gt $ageDays 1 }}
+<div class="post-old-content">
+    <p class="post-old-content-title">{{ T "post_old_content_title" }}</p>
+    <p class="post-old-content-text">{{ T "post_old_content_text" (dict "ageDays" $ageDays) }}</p>
+</div>
+{{ end }}

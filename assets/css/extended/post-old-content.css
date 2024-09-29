@@ -1,0 +1,16 @@
+.post-old-content {
+    background-color: #f8f8f8;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+}
+
+.post-old-content-title {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.post-old-content-text {
+    font-size: 0.9rem;
+}
