@@ -5,7 +5,9 @@ tags:
 - Project
 - PHP
 - MySQL
-aliases: /en/project-review-admissions-data-search-system.html
+aliases:
+- /en/project-review-admissions-data-search-system.html
+- /en/2017-09-08-project-review-admissions-data-search-system/
 ---
 
 {{< figure src="images/WelcomeMain.png" title="The Main Page" class="figure-center" >}}

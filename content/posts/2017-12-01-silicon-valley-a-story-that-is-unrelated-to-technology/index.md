@@ -3,7 +3,9 @@ title: 'Silicon Valley: A Story That Is Unrelated To Technology'
 date: 2017-12-01
 tags:
 - Rhetoric
-aliases: /en/silicon-valley-a-story-that-is-unrelated-to-technology.html
+aliases:
+- /en/silicon-valley-a-story-that-is-unrelated-to-technology.html
+- /en/2017-12-01-silicon-valley-a-story-that-is-unrelated-to-technology/
 ---
 
 This is an essay that I wrote for my Rhetoric course.

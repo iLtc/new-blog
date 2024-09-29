@@ -5,7 +5,9 @@ tags:
 - Programming Language
 - Quick Basic
 - ASP
-aliases: /en/the-programming-languages-that-i-have-learned-part-i.html
+aliases:
+- /en/the-programming-languages-that-i-have-learned-part-i.html
+- /en/2017-08-28-the-programming-languages-that-i-have-learned-part-i/
 ---
 
 This article is a list of programming languages that I have learned. Please notice that I have *learned* them, which means I have not *mastered* them.

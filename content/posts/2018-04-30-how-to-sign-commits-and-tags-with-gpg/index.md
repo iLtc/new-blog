@@ -5,7 +5,9 @@ tags:
 - Git
 - GPG
 - Tutorial
-aliases: /en/how-to-sign-commits-and-tags-with-gpg.html
+aliases:
+- /en/how-to-sign-commits-and-tags-with-gpg.html
+- /en/2018-04-30-how-to-sign-commits-and-tags-with-gpg/
 ---
 
 ## Why Should You Use GPG?

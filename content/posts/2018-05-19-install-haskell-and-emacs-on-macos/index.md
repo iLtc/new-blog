@@ -5,7 +5,9 @@ tags:
 - Emacs
 - Haskell
 - MacOS
-aliases: /en/install-haskell-and-emacs-on-macos.html
+aliases:
+- /en/install-haskell-and-emacs-on-macos.html
+- /en/2018-05-19-install-haskell-and-emacs-on-macos/
 ---
 
 [Haskell](https://www.haskell.org/) is a purely functional programming language. I learned how to use it in my Programming Language Concepts class. Our professor asked us to use [Emacs](https://www.gnu.org/software/emacs/) to edit all the Haskell and [Agda](https://en.wikipedia.org/wiki/Agda_(programming_language)) code since there are plugins such as [Haskell Mode](https://github.com/haskell/haskell-mode) that can let Emacs highlight Haskell code and compile them when needed.

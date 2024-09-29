@@ -3,7 +3,9 @@ title: Sell Your Privacy
 date: 2017-10-06
 tags:
 - Rhetoric
-aliases: /en/sell-your-privacy.html
+aliases:
+- /en/sell-your-privacy.html
+- /en/2017-10-06-sell-your-privacy/
 ---
 
 This is an essay that I wrote for my Rhetoric course.

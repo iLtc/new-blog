@@ -6,7 +6,9 @@ tags:
 - Tutorial
 - Ruby
 - Ruby on Rails
-aliases: /en/how-to-install-ruby-on-rails-on-mac.html
+aliases:
+- /en/how-to-install-ruby-on-rails-on-mac.html
+- /en/2018-01-22-how-to-install-ruby-on-rails-on-mac/
 ---
 
 macOS already included Ruby. You can type `ruby -v` at a Terminal prompt to check Ruby version and see result like:
