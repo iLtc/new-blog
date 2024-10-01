@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 title = "iLtc's Blog"
 theme = 'PaperMod'
-paginate = 7
 enableEmoji = true
 buildDrafts = false
 buildFuture = false
@@ -58,6 +57,9 @@ url = "https://lists.iltc.app/#/games"
 [permalinks]
 [permalinks.page]
 posts = '/:slugorfilename'
+
+[pagination]
+pagerSize = 10
 
 [languages.en]
 languageName = "English"

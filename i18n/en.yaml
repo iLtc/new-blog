@@ -1,2 +1,3 @@
 post_old_content_title: Please check the timeliness of the article.
 post_old_content_text: This article was published {{ .ageDays }} years ago, and the information it contains may no longer be reasonable or effective. If you have any suggestions, please leave a comment.
+translations: 翻译

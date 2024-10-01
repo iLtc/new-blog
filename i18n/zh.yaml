@@ -1,2 +1,3 @@
 post_old_content_title: 请甄别文章的时效性。
 post_old_content_text: 这篇文章发布于 {{ .ageDays }} 年前，其中所记录的信息可能已经不再合理或有效。如有任何建议，欢迎留言。
+translations: Translation
