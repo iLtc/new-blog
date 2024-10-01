@@ -16,7 +16,8 @@ duplicateResourceFiles = true
 
 [params]
 displayFullLangName = true
-defaultTheme = "auto"
+defaultTheme = "dark"
+disableThemeToggle = true
 comments = true
 DateFormat = ":date_medium"
 
