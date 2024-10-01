@@ -18,6 +18,7 @@ duplicateResourceFiles = true
 displayFullLangName = true
 defaultTheme = "auto"
 comments = true
+DateFormat = ":date_medium"
 
 [params.assets]
 disableFingerprinting = true
