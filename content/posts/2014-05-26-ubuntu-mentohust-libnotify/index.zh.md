@@ -4,6 +4,8 @@ date: 2014-05-26
 tags:
 - MentoHUST
 - Ubuntu
+aliases:
+- /article/linux/ubuntu-mentohust-libnotify.html
 ---
 
 最近开始尝试在 Linux 系统上做一些开发工作，因为校园网需要使用锐捷客户端来联网，但是锐捷提供的 Linux 版客户端用起来不是很方便，于是转而使用网上的一个替代产品 [MentoHUST](https://code.google.com/p/mentohust/) 。
