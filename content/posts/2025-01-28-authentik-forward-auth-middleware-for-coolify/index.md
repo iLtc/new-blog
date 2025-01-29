@@ -45,7 +45,7 @@ In the provider you just created, Authentik provides a few configurations for di
 
 ### Finding the Authentik Server Host
 
-We need to figure out what the Authentik server host is. Navigate to the Authentik service in Coolify and go to the Terminal tab. Expand the `Container` dropdown, the one with the key `server` is the Authentik server host.
+We need to figure out what the Authentik server host is. Navigate to the Authentik service in Coolify and go to the `Terminal` tab. Expand the `Container` dropdown, the one with the key `server` is the Authentik server host.
 
 ![terminal-tab](terminal-tab.png)
 
